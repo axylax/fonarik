@@ -1,0 +1,10 @@
+# Gradle & Build
+.gradle/
+build/
+app/build/
+*.apk
+
+# Local & Secret files
+local.properties
+*.keystore
+tools/
