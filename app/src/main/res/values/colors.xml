@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="oneui_bg">#1F2029</color>
+    <color name="oneui_amber">#FFB300</color>
+    <color name="oneui_amber_dark">#FFA000</color>
+    <color name="oneui_amber_light">#FFE082</color>
+</resources>
